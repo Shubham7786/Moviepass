@@ -164,6 +164,34 @@
   background-color: transparent;
   border-top: 0px;
 }
+
+.footer{
+  background-color: rgb(59, 59, 59);
+  width: auto;
+  height: 250px;
+  margin-top: 20px;
+  
+}
+.footer-container{
+  display: flex;
+  justify-content: center;
+}
+
+.footer-container img{
+  width: 20%;
+    height: 135px;
+}
+.social-icon{
+  display: flex;
+  justify-content: center;
+}
+
+.social-item{
+  height: 50px;
+    width: 70px;
+}
+
+
 @keyframes revealText {
   80% {
     width: 100%;

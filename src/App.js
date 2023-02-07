@@ -67,7 +67,28 @@ function App() {
         
       </div>
 
-      {/* End of page body............ */}
+      {/* End of page body............*/}
+
+      {/* Footer */}
+
+      <div className='footer'>
+            <div className='footer-container'>
+              <img src={reactlogo}></img>
+            </div>
+            <div className='social-icon'>
+            <div class="social-item">
+          <a href="https://www.facebook.com/"><img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" /></a>
+        </div>
+        <div class="social-item">
+          <a href="https://www.instagram.com/"><img src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" /></a>
+        </div>
+        <div class="social-item">
+          <a href="mailto:studyempire2@gmail.com?subject = Feedback&body = Message"><img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" /></a>
+        </div>
+        
+      </div>
+      </div>
+      
 
     </div>
 
